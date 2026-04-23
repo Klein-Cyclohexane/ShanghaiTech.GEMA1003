@@ -2,7 +2,7 @@
 ShanghaiTech GEMA1003 Calculus II Spring 2026
 
 ## Instructor
-**Qiang Wang**
+**Hao Cheng**
 
 ## TEXTBOOK
 《微积分》—— 上海交通大学数学系
@@ -15,7 +15,7 @@ Calculus With Applications	Peter D. Lax, Maria Shea Terrell
 - Midterm Exam: 30%
 - Final Exam: 50%
 Quizzes are all held in recitation class.
-Total 5 quizzes account for 10% of the final grade.
+Total 3 quizzes account for 10% of the final grade.
 Homework is graded based on the completion and accuracy of the answers.
 
 <div align="right">
