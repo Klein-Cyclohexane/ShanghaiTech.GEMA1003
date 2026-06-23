@@ -2,7 +2,7 @@
 ShanghaiTech GEMA1003 Calculus II Spring 2026
 
 ## Instructor
-**Hao Cheng**
+**Hao Chen**
 
 ## TEXTBOOK
 《微积分》—— 上海交通大学数学系
