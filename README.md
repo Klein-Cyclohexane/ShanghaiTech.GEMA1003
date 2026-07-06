@@ -1,4 +1,4 @@
-# ShanghaiTech.GEMA10013
+# ShanghaiTech.GEMA1003
 ShanghaiTech GEMA1003 Calculus II Spring 2026
 
 ## Instructor
